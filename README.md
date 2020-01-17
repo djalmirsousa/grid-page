@@ -1,1 +1,1 @@
-# gridPage
+# grid-page
